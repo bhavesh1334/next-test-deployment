@@ -7,7 +7,7 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div className={styles.container}>
-     <h2 style={{textAlign: 'center'}}>Home</h2>
+     <h2 style={{textAlign: 'center'}}>Home Page</h2>
 <ul >
 
 <li>
